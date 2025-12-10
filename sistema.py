@@ -57,7 +57,7 @@ st.markdown("""
     
     /* Cards customizados */
     .custom-card {
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        background: linear-gradient(135deg, #3f41af 0%, #070336 100%);
         padding: 1.5rem;
         border-radius: 12px;
         color: white;
@@ -70,14 +70,14 @@ st.markdown("""
         padding: 1.5rem;
         border-radius: 12px;
         box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-        border-left: 4px solid #667eea;
+        border-left: 4px solid #3f41af;
     }
     
     /* Título principal */
     .main-title {
         font-size: 2.5rem;
         font-weight: 700;
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        background: linear-gradient(135deg, #3f41af 0%, #070336 100%);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         margin-bottom: 0.5rem;
@@ -96,7 +96,7 @@ st.markdown("""
     
     /* Botões */
     .stButton>button {
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        background: linear-gradient(135deg, #3f41af 0%, #070336 100%);
         color: white;
         border: none;
         border-radius: 8px;
