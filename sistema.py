@@ -501,7 +501,7 @@ with tab4:
 # Footer
 st.markdown("---")
 st.markdown("""
-<div style='text-align: center; color: secondary; padding: 2rem 0; hegth: 100px'>
+<div style='text-align: center; color: #3f41af; padding: 2rem 0; height: 100px'>
     <p>Desenvolvido para TCC - Análise da Segurança Operacional na Aviação Civil</p>
     <p>Ciência de Dados | Python | Streamlit</p>
 </div>
